@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.title {
+  color: gray;
+  font-weight: bold;
+}
+
+.username {
+  font-weight: 500;
+}
