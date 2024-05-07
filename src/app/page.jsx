@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
-        <h1 className={styles.title}>Creative Thoughts Agency</h1>
+        <h1 className={styles.title}>NEXT 14</h1>
         <p className={styles.description}>
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
