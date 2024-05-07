@@ -1,28 +1,5 @@
-## Getting Started
-
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
-```
-
-
-run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![1](https://github.com/NicholasCloud4/Next-14-Fullstack/assets/91276870/933b5971-cca1-48ba-bb16-683d772ab24b)
+![2](https://github.com/NicholasCloud4/Next-14-Fullstack/assets/91276870/8a614681-c977-4794-a13e-2fd86add0804)
+![3](https://github.com/NicholasCloud4/Next-14-Fullstack/assets/91276870/fdfbf089-144a-4496-bc3e-dfd398d577b4)
+![4](https://github.com/NicholasCloud4/Next-14-Fullstack/assets/91276870/2d3dbaee-1667-4a1c-950e-af07132caa6d)
+![5](https://github.com/NicholasCloud4/Next-14-Fullstack/assets/91276870/8d41ee52-7e92-4ef9-875b-ca703c64637d)
